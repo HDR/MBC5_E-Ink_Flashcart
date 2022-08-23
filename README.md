@@ -8,17 +8,17 @@ If you want to support me for free (and get 5 USD in new user credit) you can us
 
 [![PCBWay Referral](/assets/referral-link.png)](https://www.pcbway.com/setinvite.aspx?inviteid=388393)
 
-Boards will only be available from PCBWay, Kicad Files and or Gerbers will not be provided, unfortunately there has been an increase in people abusing the license and the projects i publish for the community to make, i don't see this changing anytime soon.
+Boards will only be available from PCBWay. Kicad or gerbers will not be provided. Unfortunately, there has been an increase in people abusing the license and the projects I publish for the community. I don't see this changing anytime soon.
 
 **Make sure you read the License!**
 
 https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-9a56-36a67a7be4b6.mp4
 
 **Flashing:**
-1. [Download the latest version](https://circuitpython.org/board/raspberry_pi_pico/) of Circuitpython for the Raspberry pi Pico
-2. Connect the cart using a USB A to C cable, and drop the circuitpython .uf2 file onto the device
-3. One the Circitpy device pops up, move the files that correspond to your display from "Circuitpy Files" onto your device
-4. Drop a 1 or 2 bit 152x152|200x200 BMP onto the device to update the image
+1. [Download the latest version](https://circuitpython.org/board/raspberry_pi_pico/) of CircuitPython for the Raspberry Pi Pico.
+2. Connect the cart using a USB A to C cable and drop the CircuitPython .uf2 file onto the device.
+3. Once the CircuitPy device pops up, move the files that correspond to your display from "Circuitpy Files" onto your device. Choose the correct resolution matching the display installed.
+4. Drop a 152x152 or 200x200 1 or 2 bit BMP onto the device to update the e-ink display image. Choose the correct resolution matching the display installed.
 
 **BOM:**
 | Reference | Description | Footprint | Part# |
