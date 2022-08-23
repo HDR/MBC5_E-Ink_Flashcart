@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 | Reference | Description | Footprint | Part# |
 |-|-|-|-|
 | C1, C2, C3, C4, C7, C8, C11, C12, C13, C15, C16, C17, C20, C21, C28  | 100nF Capacitor | SMD 0402 |  |
-| C5, C6, C9, C10, C19, C22, C23, C24, C25, C26, C27, C29 | 1uF Capacitor (C29 Grayscale Only) | SMD 0603 |  |
+| C5, C6, C9, C10, C19, C22, C23, C24, C25, C26, C27, C29 | 1uF Capacitor | SMD 0603 |  |
 | C14, C18 | 4.7uF Capacitor | SMD 0603 |  |
 | CCR1, CCR2 | 5.1KΩ Resistor | SMD 0603 |  |
 | D1, D2, D3 | Diode | SMD SOD-123 | MBR0530 |
