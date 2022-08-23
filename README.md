@@ -1,4 +1,23 @@
-## This is private, go away
+## Make sure you read the License (Attribution-NonCommercial-ShareAlike 4.0 International)
+
+[![Purchase on PCBWay](/assets/purchase-on-pcbway.png)]()
+
+If you want to support me for free (and get 5 USD in new user credit) you can use my PCBWay [Referral link](https://www.pcbway.com/setinvite.aspx?inviteid=388393) when signing up on PCBWay
+
+![](https://i.imgur.com/Iy5TtAD.png)
+
+[![PCBWay Referral](/assets/referral-link.png)](https://www.pcbway.com/setinvite.aspx?inviteid=388393)
+
+Boards will only be available from PCBWay, Kicad Files and or Gerbers will not be provided, unfortunately there has been an increase in people abusing the license and the projects i publish for the community to make, i don't see this changing anytime soon.
+
+**Make sure you read the License!**
+
+
+**Flashing:**
+1. [Download the latest version](https://circuitpython.org/board/raspberry_pi_pico/) of Circuitpython for the Raspberry pi Pico
+2. Connect the cart using a USB A to C cable, and drop the circuitpython .uf2 file onto the device
+3. One the Circitpy device pops up, move the files that correspond to your display from "Circuitpy Files" onto your device
+4. Drop a 1 or 2 bit 152x152|200x200 BMP onto the device to update the image
 
 **BOM:**
 
@@ -28,6 +47,7 @@
 | U6 | Micro Controller | SMD QFN-56 | RP2040 |
 | U7 | 128Mb Serial Flash | SMD SOIC-8 | W25Q128JVS |
 | X1 | 12MHz Crystal Oscillator | SMD 3225-4Pin | S3D12.000000B20F30T |
+
 
 
 Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](https://github.com/djedditt/kicad-gamepaks)
