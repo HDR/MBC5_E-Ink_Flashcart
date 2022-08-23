@@ -17,9 +17,7 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 **Flashing:**
 1. [Download the latest version](https://circuitpython.org/board/raspberry_pi_pico/) of Circuitpython for the Raspberry pi Pico
 2. Connect the cart using a USB A to C cable, and drop the circuitpython .uf2 file onto the device
-3. One the Circitpy de
-
-vice pops up, move the files that correspond to your display from "Circuitpy Files" onto your device
+3. One the Circitpy device pops up, move the files that correspond to your display from "Circuitpy Files" onto your device
 4. Drop a 1 or 2 bit 152x152|200x200 BMP onto the device to update the image
 
 **BOM:**
