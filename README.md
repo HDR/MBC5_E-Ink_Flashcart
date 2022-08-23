@@ -21,7 +21,6 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 4. Drop a 1 or 2 bit 152x152|200x200 BMP onto the device to update the image
 
 **BOM:**
-
 | Reference | Description | Footprint | Part# |
 |-|-|-|-|
 | C1, C2, C3, C4, C7, C8, C11, C12, C13, C15, C16, C17, C20, C21, C28  | 100nF Capacitor | SMD 0402 |  |
@@ -34,12 +33,14 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 | J3 | FPC24(0.5mm) | Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal | FH12-24S-0.5SH |
 | L1 | 10uH 1A  | SMD 1210 | LQH32PZ100MNCL |
 | Q1 | NMOS | SMD SOT-323 | Si1308EDL |
-| R1, R4 | 10kΩ Resistor (R4 = 1MΩ Grayscale) | SMD 0603 |  |
+| R1, R4 | 10kΩ Resistor | SMD 0603 |  |
 | R2, R3 | 27Ω Resistor | SMD 0603 |  |
-| R5 | 3Ω Resistor (0.47Ω Grayscale) | SMD 0603 |  |
+| R5 | 3Ω Resistor | SMD 0603 |  |
 | R6 | 1KΩ Resistor | SMD 0603 |  |
 | R7 | Optional 10KΩ Resistor (DNF) | SMD 0603 |  |
+| R8 | 0.47Ω | SMD 0603 | |
 | SW1 | Boot Switch | SW_SPST_B3U-1000P | B3U-1000P |
+| SW2 | Screen Switch (used to switch between screen types) | SW_SPDT-K3-1296S-E1 | K3-1296S-E1 |
 | U1 | 3-Input OR Gate | SMD TSOP-6 | 74LVC1G332GW,125 |
 | U2 | 256Kb FRAM | SMD SOIC-28W | FM18W08-SG |
 | U3 | 4MB Flash | SMD TSOP-I-40 | MBM29F033C |
@@ -47,8 +48,15 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 | U5 | 3.3V Voltage Regulator | SMD SOT-23-5 | RT9013-33GB |
 | U6 | Micro Controller | SMD QFN-56 | RP2040 |
 | U7 | 128Mb Serial Flash | SMD SOIC-8 | W25Q128JVS |
-| X1 | 12MHz Crystal Oscillator | SMD 3225-4Pin | S3D12.000000B20F30T |
+| X1 | 12MHz Crystal Oscillator | SMD 3225-4Pin | CO32H4-12.000-WPJHPSN |
 
+**Displays:**
+| Model Number | Resolution | Grayscale |
+|-|-|-|
+| [GDEW0154T8D](https://www.aliexpress.com/item/1005004027620986.html) | 152x152 | Yes |
+| [Waveshare 1.54"](https://www.waveshare.com/product/1.54inch-e-paper.htm) | 200x200 | No |
+| [GDEH0154D67](https://www.aliexpress.com/item/33044560386.html)  | 200x200 | Yes, but not currently supported |
+| [GDEY0154D67](aliexpress.com/item/1005004027620986.html)  | 200x200 | Yes, but not currently supported |
 
 
 Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](https://github.com/djedditt/kicad-gamepaks)
