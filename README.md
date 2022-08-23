@@ -12,7 +12,7 @@ Boards will only be available from PCBWay, Kicad Files and or Gerbers will not b
 
 **Make sure you read the License!**
 
-https://user-images.githubusercontent.com/20230450/186256430-3a135666-2b11-4606-8326-616408f1b4bb.mp4
+https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-9a56-36a67a7be4b6.mp4
 
 **Flashing:**
 1. [Download the latest version](https://circuitpython.org/board/raspberry_pi_pico/) of Circuitpython for the Raspberry pi Pico
