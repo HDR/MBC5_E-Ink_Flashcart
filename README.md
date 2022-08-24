@@ -58,5 +58,7 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 | [GDEH0154D67](https://www.aliexpress.com/item/33044560386.html)  | 200x200 | Yes, but not currently supported |
 | [GDEY0154D67](aliexpress.com/item/1005004027620986.html)  | 200x200 | Yes, but not currently supported |
 
+* Pin compatible UC8151D & SSD1681 based displays should also work.
+
 
 Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](https://github.com/djedditt/kicad-gamepaks)
