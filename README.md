@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 **Displays:**
 | Model Number | Resolution | Grayscale |
 |-|-|-|
-| [GDEW0154T8D](https://www.aliexpress.com/item/1005004027620986.html) | 152x152 | Yes |
+| [GDEW0154T8D](https://www.aliexpress.com/item/1005002617604028.html) | 152x152 | Yes |
 | [Waveshare 1.54"](https://www.waveshare.com/product/1.54inch-e-paper.htm) | 200x200 | No |
 | [GDEH0154D67](https://www.aliexpress.com/item/33044560386.html)  | 200x200 | Yes, but not currently supported |
 | [GDEY0154D67](aliexpress.com/item/1005004027620986.html)  | 200x200 | Yes, but not currently supported |
