@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 | D1, D2, D3 | Diode | SMD SOD-123 | MBR0530 |
 | J1 | CartBus | Custom (djedditt) |  |
 | J2 | USB-C Receptacle | Custom | TYPE-C-31-M-12 |
-| J3 | FPC24(0.5mm) | Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal | FH12-24S-0.5SH |
+| J3 | FPC24(0.5mm) | Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal | FH12A-24S-0.5SH |
 | L1 | 10uH 1A  | SMD 1210 | LQH32PZ100MNCL |
 | Q1 | NMOS | SMD SOT-323 | Si1308EDL |
 | R1, R4 | 10kΩ Resistor | SMD 0603 |  |
