@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/20230450/186256513-c9dcb02d-fbb6-43f8-
 | R8 | 0.47Ω | SMD 0603 | |
 | SW1 | Boot Switch | SW_SPST_B3U-1000P | B3U-1000P |
 | SW2 | Screen Switch (used to switch between screen types) | SW_SPDT-K3-1296S-E1 | K3-1296S-E1 |
-| U1 | 3-Input OR Gate | SMD TSOP-6 | 74LVC1G332GW,125 |
+| U1 | 3-Input OR Gate | SMD TSOP-6 | 74LVC1G332GV,125 |
 | U2 | 256Kb FRAM | SMD SOIC-28W | FM18W08-SG |
 | U3 | 4MB Flash | SMD TSOP-I-40 | MBM29F033C |
 | U4 | Memory Bank Controller | SMD LQFP-32 | MBC5 |
